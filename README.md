@@ -23,7 +23,7 @@
 ```
 ##注意事项
 
-* 必须要添加一个预编译文件pch
+* ####必须要添加一个预编译文件pch
 ```obj-c
 #ifndef PrefixHeader_pch
 #define PrefixHeader_pch
@@ -36,7 +36,10 @@
 #endif
 ```
 
-* 在ScanLib文件夹下：
+* ####在ScanLib文件夹下：
+
     * BeforeScanSingleton 是直接用于调用的； 
+    
     * ScanResultViewController 是写的一个扫码成功后的跳转页面，如果要自定义其他页面，直接修改这个；
+    
     * logo.JPG 是生成自己的二维码时放在最中间的一个小型图片，如果需要自定义可以替换这个图片，最好不修改名字，这样就不用改动其他地方
