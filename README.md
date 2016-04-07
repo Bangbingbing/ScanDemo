@@ -1,7 +1,8 @@
 # ScanDemo
 
 多种类型的扫码，生成二维码，简单调用
-![image](https://github.com/honeycao/SearchDemo/blob/master/FriendSearch.gif ) 
+
+![image](https://github.com/honeycao/ScanDemo/blob/master/ScanDemo.gif) 
 
 ##介绍
 
