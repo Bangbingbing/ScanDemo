@@ -12,7 +12,7 @@
 
 ##安装
 
-直接把ScanLib拖入项目中即可
+直接把`ScanLib`拖入项目中即可
 
 ##调用
 ```obj-c
@@ -23,7 +23,8 @@
 ```
 ##注意事项
 
-* ####必须要添加一个预编译文件pch
+* ####必须要添加一个预编译文件`pch`
+
 ```obj-c
 #ifndef PrefixHeader_pch
 #define PrefixHeader_pch
@@ -38,8 +39,8 @@
 
 * ####在ScanLib文件夹下：
 
-    * BeforeScanSingleton 是直接用于调用的； 
+    * `BeforeScanSingleton` 是直接用于调用的； 
     
-    * ScanResultViewController 是写的一个扫码成功后的跳转页面，如果要自定义其他页面，直接修改这个；
+    * `ScanResultViewController` 是写的一个扫码成功后的跳转页面，如果要自定义其他页面，直接修改这个；
     
-    * logo.JPG 是生成自己的二维码时放在最中间的一个小型图片，如果需要自定义可以替换这个图片，最好不修改名字，这样就不用改动其他地方
+    * `logo.JPG` 是生成自己的二维码时放在最中间的一个小型图片，如果需要自定义可以替换这个图片，最好不修改名字，这样就不用改动其他地方
