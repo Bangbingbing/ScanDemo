@@ -48,4 +48,4 @@
 ##备注
 > 是在大神们的基础上改善而来，自己写的只是其中个别比较常见的类型，现在贴上最初来源：https://github.com/MxABC/LBXScan （欢迎 stat ）
 
-> I am a rookie ，I am not God （有建议或想法请q：331864805）
+> I am a rookie ，I am not God （有建议或想法请q：331864805 ，你的点赞是我最大的动力）
