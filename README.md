@@ -24,7 +24,7 @@
 ##注意事项
 
 
-* ###必须要添加一个预编译文件`pch`
+* 必须要添加一个预编译文件`pch`
 
 ```obj-c
 #ifndef PrefixHeader_pch
